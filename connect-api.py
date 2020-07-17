@@ -4,10 +4,10 @@ from tweepy import Stream
 import json
 from kafka import KafkaProducer, KafkaClient
 
-access_token = '826868977364238336-eRJ4pNxuOynK6NxlA70GRPNlKRylk7e'
-access_token_secret = 'yQIZ9AnpZE2AUqCruYBJVL5bodY65NutC0hJZveUFMKnR'
-consumer_key =  'ZYqgHPcvybtBo2TiefHv9hy3A'
-consumer_secret = 'iiIEsv3xgW7MQ7uSl6A69u5S37OU6zkUnZZznC9y4kDKxYy0cJ'
+access_token = 'XXXXXXXXXX'
+access_token_secret = 'XXXXXXXXX'
+consumer_key =  'XXXXXXXXX'
+consumer_secret = 'XXXXXXXXX'
 
 
 
